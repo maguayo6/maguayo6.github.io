@@ -1,0 +1,50 @@
+
+.container-fluid {
+    padding-top: 75px;
+    padding-bottom: 75px;
+  }
+  
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 20px;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+    letter-spacing: 5px;
+  }
+  
+  .navbar-nav li a:hover {
+    color: #3deaed !important;
+  }
+  
+  .BG-1 {
+    background-color: #3deaed;
+    color: #ffffff;
+  }
+  
+  .BG-2 {
+    background-color: #474e5d;
+    color: #ffffff;
+  }
+  
+  .BG-3 {
+    background-color: #edf7ff;
+    color: #555555;
+  }
+  
+  .BG-4 {
+    background-color: #2f2f2f;
+    color: #ffffff;
+  }
+  
+  .message {
+    margin: 5px;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid white;
+    resize: none;
+    overflow: hidden;
+    box-shadow: none !important;
+  }
+  
